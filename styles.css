@@ -1,18 +1,18 @@
-h1 {
+.heading {
     color: deeppink;
     font-family: fantasy, sans-serif;
 }
 
-ul {
+.ul {
     background-color: aqua;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-body {
+.body {
     background-color: darkmagenta;
 }
 
-ol {
+.ol {
     background-color: fuchsia;
     font-family: cursive, sans-serif;
 }
