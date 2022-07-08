@@ -1,0 +1,18 @@
+h1 {
+    color: deeppink;
+    font-family: fantasy, sans-serif;
+}
+
+ul {
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: darkmagenta;
+}
+
+ol {
+    background-color: fuchsia;
+    font-family: cursive, sans-serif;
+}
