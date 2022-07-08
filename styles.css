@@ -16,3 +16,8 @@
     background-color: fuchsia;
     font-family: cursive, sans-serif;
 }
+
+img {
+    height: auto;
+    width: 200;
+}
